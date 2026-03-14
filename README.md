@@ -1,4 +1,4 @@
-# Hi there 👋 I'm David Cabrera Duca
+# Hi there 👋 I'm David Rupert Duca
 
 **Student | Web Developer | CSS NCII Certified**
 
